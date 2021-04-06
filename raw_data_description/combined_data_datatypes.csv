@@ -1,0 +1,8 @@
+,0
+Unnamed: 0,int64
+Order ID,object
+Product,object
+Quantity Ordered,object
+Price Each,object
+Order Date,object
+Purchase Address,object
